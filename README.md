@@ -1,1 +1,1 @@
-# github-first-lesson
+# はじめてのGitHub
